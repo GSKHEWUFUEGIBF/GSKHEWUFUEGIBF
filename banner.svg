@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260" role="img" aria-label="Mithun Sanjay J - Electrical and Computer Engineering">
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#1f262e"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0d1117" stop-opacity="1"/>
+      <stop offset="0.55" stop-color="#0d1117" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="260" rx="12" fill="#0d1117"/>
+  <rect width="1200" height="260" rx="12" fill="url(#grid)"/>
+  <rect x="0.5" y="0.5" width="1199" height="259" rx="12" fill="none" stroke="#30363d"/>
+
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M660 78 H700 V48 H760 V78 H820 V48 H880 V78 H940 V48 H1000 V78 H1060 V48 H1120 V78 H1170"
+          stroke="#2dd4bf" stroke-width="2.5"/>
+    <path d="M660 160 C690 100 720 100 750 160 S810 220 840 160 S900 100 930 160 S990 220 1020 160 S1080 100 1110 160 S1150 200 1170 170"
+          stroke="#58a6ff" stroke-width="2.5"/>
+    <path d="M660 214 H1170" stroke="#30363d" stroke-width="1.5" stroke-dasharray="4 8"/>
+  </g>
+  <g fill="#0d1117" stroke="#8b949e" stroke-width="1.5">
+    <circle cx="700" cy="214" r="4"/>
+    <circle cx="820" cy="214" r="4"/>
+    <circle cx="940" cy="214" r="4"/>
+    <circle cx="1060" cy="214" r="4"/>
+  </g>
+
+  <rect width="1200" height="260" rx="12" fill="url(#fade)"/>
+
+  <rect x="56" y="62" width="4" height="22" rx="2" fill="#2dd4bf"/>
+  <text x="72" y="80" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="15" letter-spacing="2" fill="#2dd4bf">ELECTRICAL &amp; COMPUTER ENGINEERING</text>
+  <text x="54" y="148" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="64" font-weight="700" fill="#f0f6fc">Mithun Sanjay J</text>
+  <text x="56" y="192" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="20" fill="#8b949e">Embedded systems  ·  Intelligent control  ·  Energy systems</text>
+</svg>
