@@ -1,10 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mithun%20Sanjay%20J&fontSize=48&fontColor=ffffff&desc=Embedded%20Systems%20and%20Intelligent%20Control" width="100%" alt="Mithun Sanjay J banner" />
+<img src="https://raw.githubusercontent.com/GSKHEWUFUEGIBF/GSKHEWUFUEGIBF/main/banner.svg" width="100%" alt="Mithun Sanjay J - Electrical and Computer Engineering" />
 
-<p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=5EEAD4&center=true&vCenter=true&width=640&lines=Firmware+that+talks+to+real+hardware;Soft+computing+for+real+power+systems;Learning+by+building%2C+then+writing+down+what+broke" alt="Typing tagline" />
-  </a>
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/MATLAB-Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
@@ -94,4 +89,4 @@ More: [Mamdani fuzzy vs PID DC-motor control](https://github.com/GSKHEWUFUEGIBF/
 
 Open to collaborating on embedded systems, energy-management and control projects, and to internship or research opportunities in these areas.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" alt="" />
+
