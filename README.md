@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mithun%20Sanjay%20J&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Electrical%20%26%20Computer%20Engineering%20%C2%B7%20Embedded%20%C2%B7%20Intelligent%20Control&descAlignY=58&descSize=16" width="100%" alt="Mithun Sanjay J banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mithun%20Sanjay%20J&fontSize=48&fontColor=ffffff&desc=Embedded%20Systems%20and%20Intelligent%20Control" width="100%" alt="Mithun Sanjay J banner" />
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
